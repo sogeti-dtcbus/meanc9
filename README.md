@@ -38,4 +38,3 @@
 - $ node server.js
 > If your MongoDB fails due to a bad shutdown, simply run:
 - $ ./mongod --repair
-

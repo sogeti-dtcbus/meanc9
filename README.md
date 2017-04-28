@@ -8,7 +8,7 @@
 
 # MeanApp
 
-- Designed for Cloud9
+- Designed for Cloud9 | Ported from Heroku Tutorial: https://devcenter.heroku.com/articles/mean-apps-restful-api by sogetiscott
 - Create a new Cloud9 Workspace, add a name and description, then choose 'Clone from Git'
 - Enter the following: git@github.com:sogeti-dtcbus/meanc9.git
 - Create Workspace

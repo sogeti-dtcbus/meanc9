@@ -13,7 +13,9 @@
 > Install/Update node and npm
 - $	nvm install node && nvm alias default node && npm update npm -g
 > Install Angular CLI
-- $	npm install -g @angular/cli
+- $	npm install -g @angular/cli (takes some time)
+> Change to the 'mean-app' directory
+- npm install (takes some time)
 > Setup MongoDB within 'mean-app' directory
 - $	sudo apt-get install -y mongodb-org
 > Setup Data Storage for MongoDB

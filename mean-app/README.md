@@ -18,6 +18,6 @@
 - $	nohup ./mongod &
 > build the app
 - $	ng build
-? start node
+> start node
 - $	node server.js
 - Test your MEAN App by going to “Preview > Preview Running Application” You can now view existing posts, add new ones, update existing or delete from your app. You can also copy your c9users.io link and share it—your project is public, so anyone with the link will have access.

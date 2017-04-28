@@ -9,6 +9,9 @@
 # MeanApp
 
 - Designed for Cloud9
+- Create a new Cloud9 Workspace, add a name and description, then choose 'Clone from Git'
+- Enter the following: git@github.com:sogeti-dtcbus/meanc9.git
+- Create Workspace
 - This project was generated with Angular 2, MongoDB, Express and Node
 > Install/Update node and npm
 - $	nvm install node && nvm alias default node && npm update npm -g
